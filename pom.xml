@@ -14,8 +14,8 @@
   </modules>
   <scm>
     <connection>scm:https://github.com/salagarsprabu/maven-modular.git</connection>
-    <url>https://github.com/salagarsprabu/maven-modular.git.git</url>
-    <developerConnection>scm:git:https://github.com/salagarsprabu/maven-modular.git.git</developerConnection>
+    <url>https://github.com/salagarsprabu/maven-modular.git</url>
+    <developerConnection>scm:git:https://github.com/salagarsprabu/maven-modular.git</developerConnection>
   </scm>
 
 <distributionManagement>
