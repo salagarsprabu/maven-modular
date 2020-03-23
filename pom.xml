@@ -39,9 +39,8 @@
           <source>1.7</source>
           <target>1.7</target>
         </configuration>
-      </plugin>
-            <plugins>
-        <plugin>
+       </plugin>
+       <plugin>
           <groupId>org.apache.maven.plugins</groupId>
           <artifactId>maven-release-plugin</artifactId>
           <version>3.0.0-M1</version>
@@ -52,7 +51,6 @@
             <tagNameFormat>@{project.version}</tagNameFormat>
           </configuration>
         </plugin>
-
     </plugins>
   </build>
 </project>
